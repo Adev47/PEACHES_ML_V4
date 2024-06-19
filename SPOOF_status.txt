@@ -1,0 +1,2 @@
+Peaches Spoofer,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/PeachesSpoofer.exe
+MW3 Spoofer,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MW3_Spoofer.exe
